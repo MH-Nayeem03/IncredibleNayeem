@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IncredibleNayeem
 - 👀 I’m interested in coding and a lot of things
-- 🌱 I’m currently learning python, solidworks, excel, data science.
+- 🌱 I’m currently learning python, solidworks, excel.
 - 💞️ I’m looking to collaborate on no one
 - 📫 How to reach me ...
 
